@@ -1,0 +1,72 @@
+{
+  "bail": 0,
+  "changedFilesWithAncestor": false,
+  "ci": false,
+  "collectCoverage": false,
+  "collectCoverageFrom": [],
+  "coverageDirectory": "/Users/francoenrici/ejercicio_API_REST_films_con_test/coverage",
+  "coverageProvider": "babel",
+  "coverageReporters": [
+    "json",
+    "text",
+    "lcov",
+    "clover"
+  ],
+  "detectLeaks": false,
+  "detectOpenHandles": false,
+  "errorOnDeprecated": false,
+  "expand": false,
+  "findRelatedTests": false,
+  "forceExit": false,
+  "json": false,
+  "lastCommit": false,
+  "listTests": false,
+  "logHeapUsage": false,
+  "maxConcurrency": 5,
+  "maxWorkers": 7,
+  "noStackTrace": false,
+  "nonFlagArgs": [],
+  "notify": false,
+  "notifyMode": "failure-change",
+  "onlyChanged": false,
+  "onlyFailures": false,
+  "openHandlesTimeout": 1000,
+  "passWithNoTests": false,
+  "projects": [],
+  "reporters": [
+    [
+      "default",
+      {}
+    ],
+    [
+      "/Users/francoenrici/ejercicio_API_REST_films_con_test/node_modules/jest-stare/lib/index.js",
+      {
+        "resultDir": "results/jest-stare/",
+        "reportTitle": "jest-stare!",
+        "additionalResultsProcessors": [],
+        "coverageLink": "../../coverage/lcov-report/index.html",
+        "jestStareConfigJson": "jest-stare.json",
+        "jestGlobalConfigJson": "globalStuff.json",
+        "resultHtml": "index.html",
+        "resultJson": "jest-results.json"
+      }
+    ]
+  ],
+  "rootDir": "/Users/francoenrici/ejercicio_API_REST_films_con_test",
+  "runTestsByPath": false,
+  "seed": -1969232121,
+  "skipFilter": false,
+  "snapshotFormat": {
+    "escapeString": false,
+    "printBasicPrototype": false
+  },
+  "testFailureExitCode": 1,
+  "testPathPattern": "",
+  "testSequencer": "/Users/francoenrici/ejercicio_API_REST_films_con_test/node_modules/@jest/test-sequencer/build/index.js",
+  "updateSnapshot": "new",
+  "useStderr": false,
+  "watch": false,
+  "watchAll": false,
+  "watchman": true,
+  "workerThreads": false
+}
